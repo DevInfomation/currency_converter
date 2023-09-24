@@ -1,0 +1,1 @@
+const apiKeyCurrency = "https://v6.exchangerate-api.com/v6/891cdfd83bed3b54d694c5b1/latest/USD";
